@@ -10,3 +10,5 @@ Patient Queue-
 Recursion- 
     This file contains problems solved by recursion. 
 
+QuadTree- 
+    This file contains code for a quadtree. I am not certain that this is the final version of this project. This program will not run. This is to show the modularity of the quadtree along with the search functions.
